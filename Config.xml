@@ -1,0 +1,5 @@
+<system>
+    <initsystem>runit</initsystem>
+    <display_manager>sddm</display_manager>
+    <initramfs_generator>dracut</initramfs_generator>
+</system>
